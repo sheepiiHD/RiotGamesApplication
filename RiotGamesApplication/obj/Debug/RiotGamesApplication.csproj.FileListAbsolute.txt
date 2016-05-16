@@ -1,0 +1,8 @@
+c:\users\mts\documents\visual studio 2015\Projects\RiotGamesApplication\RiotGamesApplication\bin\Debug\RiotGamesApplication.exe.config
+c:\users\mts\documents\visual studio 2015\Projects\RiotGamesApplication\RiotGamesApplication\obj\Debug\RiotGamesApplication.csprojResolveAssemblyReference.cache
+c:\users\mts\documents\visual studio 2015\Projects\RiotGamesApplication\RiotGamesApplication\bin\Debug\RiotGamesApplication.exe
+c:\users\mts\documents\visual studio 2015\Projects\RiotGamesApplication\RiotGamesApplication\bin\Debug\RiotGamesApplication.pdb
+c:\users\mts\documents\visual studio 2015\Projects\RiotGamesApplication\RiotGamesApplication\bin\Debug\DocX.dll
+c:\users\mts\documents\visual studio 2015\Projects\RiotGamesApplication\RiotGamesApplication\obj\Debug\RiotGamesApplication.exe
+c:\users\mts\documents\visual studio 2015\Projects\RiotGamesApplication\RiotGamesApplication\obj\Debug\RiotGamesApplication.pdb
+c:\users\mts\documents\visual studio 2015\Projects\RiotGamesApplication\RiotGamesApplication\obj\Debug\RiotGamesApplication.csproj.ResolveComReference.cache
