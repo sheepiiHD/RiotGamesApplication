@@ -15,7 +15,7 @@ namespace RiotGamesApplication
 {
     class MouseMove
     {
-
+        static bool run;
 
         static void MoveMouse(Point newPosition, int steps)
         {
@@ -29,6 +29,7 @@ namespace RiotGamesApplication
             slope.X = slope.X / steps;
             slope.Y = slope.Y / steps;
 
+            run = true;
             // Move the mouse to each iterative point.
             for (int i = 0; i < steps; i++)
             {
@@ -36,9 +37,14 @@ namespace RiotGamesApplication
                 SetCursorPos(Point.Round(iterPoint));
                 Thread.Sleep(1000);
             }
+            run = false;
 
             // Move the mouse to the final destination.
             SetCursorPos(newPosition);
+        }
+        public bool running()
+        {
+            return run;
         }
 
         [DllImport("user32.dll")]
